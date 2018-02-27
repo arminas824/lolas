@@ -7,3 +7,4 @@ git commit -m first commit
 git remote add origin https://github.com/arminas824/Baig-m.git
 git push -u origin master
 echo # Baig-m
+# Baig-m
